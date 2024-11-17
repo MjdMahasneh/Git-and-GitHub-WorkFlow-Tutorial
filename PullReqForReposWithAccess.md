@@ -1,5 +1,8 @@
 # Git and GitHub Workflow
 
+To contribute to a repository where **you have write access**, follow these steps:
+
+
 ## Setting Up and Making Changes
 
 ### Clone the Repository
