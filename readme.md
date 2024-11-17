@@ -1,6 +1,6 @@
 # Git and GitHub Workflow
 
-To contribute to a repository where you have <span style="color: red;"> **Write Access**</span>, i.e., collaboration access, follow these steps:
+To contribute to a repository where you have **Write Access**, i.e., collaboration access, follow these steps:
 
 
 ## Setting Up and Making Changes
@@ -85,9 +85,10 @@ This summary outlines a typical workflow for individual or team projects using G
 ---
 
 
+
 # Git and GitHub Workflow for Forked Repositories
 
-To contribute to a repository where you have <span style="color: red;"> **no Write Access**</span>, e.g., public contributor, follow these steps:
+To contribute to a repository where you have **no Write Access**, e.g., public contributor, follow these steps:
 
 - #### Fork the Repository
 
